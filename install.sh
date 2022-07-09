@@ -253,9 +253,10 @@ while true; do
                 install_wine6
                 break
                 ;;
-            "Exit")
+            $lb_exit)
                 echo ""
                 echo "Exiting Installation Manager"
+                echo ""
                 break 2
                 ;;
             *) echo "${lb_invalid_opt} $REPLY";;
