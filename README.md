@@ -1,4 +1,4 @@
-# Ubuntu Package Installer
+# Debian Package Installer
 Supports any distro based on Debian (Ubuntu, ZorinOS, etc).
 
 ## Packages Installed
