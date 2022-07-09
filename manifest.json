@@ -3,5 +3,5 @@
     "version":          "1.0.0",
 	"author":           "im-richard",
 	"description":      "installation script for popular packages",
-    "url":              "https://github.com/im-richard/Debian-Package-Installer",
+    "url":              "https://github.com/im-richard/Debian-Package-Installer"
 }
