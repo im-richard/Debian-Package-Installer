@@ -1,5 +1,5 @@
 # Ubuntu Package Installer
-Supports any distro based on Ubuntu (such as ZorinOS).
+Supports any distro based on Debian (Ubuntu, ZorinOS, etc).
 
 ## Packages Installed
 - vscode
